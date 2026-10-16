@@ -1,0 +1,15 @@
+D:\Proyectos\C#\Textileria Aguirre\Inventario-Textiler-a-Aguirre-\bin\Debug\net10.0\Inventario-Textiler-a-Aguirre-.exe
+D:\Proyectos\C#\Textileria Aguirre\Inventario-Textiler-a-Aguirre-\bin\Debug\net10.0\Inventario-Textiler-a-Aguirre-.deps.json
+D:\Proyectos\C#\Textileria Aguirre\Inventario-Textiler-a-Aguirre-\bin\Debug\net10.0\Inventario-Textiler-a-Aguirre-.runtimeconfig.json
+D:\Proyectos\C#\Textileria Aguirre\Inventario-Textiler-a-Aguirre-\bin\Debug\net10.0\Inventario-Textiler-a-Aguirre-.dll
+D:\Proyectos\C#\Textileria Aguirre\Inventario-Textiler-a-Aguirre-\bin\Debug\net10.0\Inventario-Textiler-a-Aguirre-.pdb
+D:\Proyectos\C#\Textileria Aguirre\Inventario-Textiler-a-Aguirre-\obj\Debug\net10.0\Inventario-Textiler-a-Aguirre-.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\C#\Textileria Aguirre\Inventario-Textiler-a-Aguirre-\obj\Debug\net10.0\Inventario-Textiler-a-Aguirre-.AssemblyInfoInputs.cache
+D:\Proyectos\C#\Textileria Aguirre\Inventario-Textiler-a-Aguirre-\obj\Debug\net10.0\Inventario-Textiler-a-Aguirre-.AssemblyInfo.cs
+D:\Proyectos\C#\Textileria Aguirre\Inventario-Textiler-a-Aguirre-\obj\Debug\net10.0\Inventario-Textiler-a-Aguirre-.csproj.CoreCompileInputs.cache
+D:\Proyectos\C#\Textileria Aguirre\Inventario-Textiler-a-Aguirre-\obj\Debug\net10.0\Inventario-Textiler-a-Aguirre-.sourcelink.json
+D:\Proyectos\C#\Textileria Aguirre\Inventario-Textiler-a-Aguirre-\obj\Debug\net10.0\Inventario-Textiler-a-Aguirre-.dll
+D:\Proyectos\C#\Textileria Aguirre\Inventario-Textiler-a-Aguirre-\obj\Debug\net10.0\refint\Inventario-Textiler-a-Aguirre-.dll
+D:\Proyectos\C#\Textileria Aguirre\Inventario-Textiler-a-Aguirre-\obj\Debug\net10.0\Inventario-Textiler-a-Aguirre-.pdb
+D:\Proyectos\C#\Textileria Aguirre\Inventario-Textiler-a-Aguirre-\obj\Debug\net10.0\Inventario-Textiler-a-Aguirre-.genruntimeconfig.cache
+D:\Proyectos\C#\Textileria Aguirre\Inventario-Textiler-a-Aguirre-\obj\Debug\net10.0\ref\Inventario-Textiler-a-Aguirre-.dll
